@@ -66,35 +66,18 @@ This project was built as part of a portfolio development assignment and include
 - Real-time time & date display with glowing theme
 
 ---
-
 ## 🧪 Setup Instructions
 
-If you'd like to run this project locally:
+This is a front-end portfolio website. You can view or run it in two ways:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/FawziyaAbiola/ICT-PortfolioProject.git
-2. Open index.html in your browser
-   
-3.Explore the full site from your device
+1. **Live View**: Visit the deployed version at  
+   👉 https://fawziyaabiola.github.io/ICT-PortfolioProject/
 
-🔐 This is a public educational project, available for learning and evaluation purposes.
-
-
-## 🧑‍💻 Detailed steps on How to Clone & Run This Project (Optional)
-
-To run this project on your own computer:
-
-1. Open VS Code or any code editor  
-2. Open the terminal (or Git Bash)  
-3. Copy and paste the repository link from GitHub  
-4. Use it to clone the project to your computer  
-5. Open the folder in your editor  
-6. Double-click on `index.html` to launch the website in your browser  
-7. (Optional) If using Live Server, right-click and select “Open with Live Server”
-
-That’s it — the portfolio will run locally just like it does online.
-
+2. **Local View** (optional):  
+   - Download the ZIP file from GitHub  
+   - Extract it  
+   - Open `index.html` in any browser  
+   - (Optional) Open with Live Server in VS Code for better testing
 
 ## 🤔 Challenges Faced
 
